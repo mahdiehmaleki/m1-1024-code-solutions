@@ -1,0 +1,39 @@
+body,
+html {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #f0f0f0;
+  font-family: Arial, sans-serif;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.bulb {
+  width: 250px;
+  height: 250px;
+  border-radius: 50%;
+  background-color: #ddd;
+  box-shadow: inset 0 -10px 20px rgba(0, 0, 0, 0.2);
+  margin: 20px;
+  cursor: pointer;
+  transition: background-color 0.3s, box-shadow 0.3s;
+}
+
+.bulb.on {
+  background-color: #ff9;
+  box-shadow: 0 0 30px rgba(255, 255, 153, 0.8),
+    inset 0 -10px 20px rgba(255, 255, 0, 0.5);
+}
+
+.bulb.off {
+  background-color: #555;
+  box-shadow: inset 0 -10px 20px rgba(0, 0, 0, 0.5);
+}
