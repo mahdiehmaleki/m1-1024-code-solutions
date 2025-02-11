@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>TypeScript Carousel</title>
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css" />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="carousel">
+      <button id="prev-btn" class="control">
+        <i class="fas fa-chevron-left"></i>
+      </button>
+
+      <div class="carousel-container">
+        <img src="images/001.png" class="slide active" />
+        <img src="images/004.png" class="slide" />
+        <img src="images/007.png" class="slide" />
+        <img src="images/025.png" class="slide" />
+        <img src="images/039.png" class="slide" />
+      </div>
+
+      <button id="next-btn" class="control">
+        <i class="fas fa-chevron-right"></i>
+      </button>
+
+      <div class="indicators">
+        <span class="dot active" data-index="0"></span>
+        <span class="dot" data-index="1"></span>
+        <span class="dot" data-index="2"></span>
+        <span class="dot" data-index="3"></span>
+        <span class="dot" data-index="4"></span>
+      </div>
+    </div>
+
+    <script src="main.js"></script>
+  </body>
+</html>
