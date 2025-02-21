@@ -1,0 +1,240 @@
+    1  git pull origin main
+    2  git branch dom-event-delegation
+    3  git --branch
+    4  git branch --list 
+    5  git switch dom-event-delegation 
+    6  cd dom-event-delegation/
+    7  npx tc --watch
+    8  npx tsc --watch
+    9  cd ..
+   10  git add dom-event-delegation/
+   11  git commit -m"completed dom-event-delegation"
+   12  git push origin dom-event-delegation 
+   13  git status
+   14  git switch main
+   15  git pull origin main
+   16  git switch dom-event-delegation 
+   17  cd..
+   18  cd ..
+   19  cd m1-1024-code-solutions/
+   20  git switch main
+   21  git pull origin main
+   22  git branch typescriptforms
+   23  git branch typescript-forms
+   24  git switch typescript-forms 
+   25  cd typescript-forms/
+   26  npx tsc --watch
+   27  cd ..
+   28  git add typescript-forms/
+   29  git commit_m"completed typescript-forms"
+   30  git commit -m"completed typescript-forms"
+   31  git push origin typescript-forms
+   32  git status
+   33  git switch main
+   34  git pull origin main
+   35  git branch typescript-light-bulb
+   36  git switch typescript-light-bulb 
+   37  cd typescript-light-bulb/
+   38  npx tsc --watch
+   39  cd ..
+   40  git add typescript-light-bulb/
+   41  git commit -m"completed lightbulb"
+   42  git push origin typescript-light-bulb 
+   43  git switch main
+   44  git pull origin main
+   45  git switch typescript-light-bulb 
+   46  git switch main
+   47  git pull origin main
+   48  git branch css-media-queries
+   49  git switch css-media-queries 
+   50  git add css-media-queries/
+   51  git commit -m"completed css-media-queries"
+   52  gir push origin css-media-queries/
+   53  git push origin css-media-queries 
+   54  git switch main 
+   55  git pull origin main
+   56  git branch css-transitions-and-transforms
+   57  git switch css-transitions-and-transforms 
+   58  git add css-transitions-and-transforms/
+   59  git commit -m"completed css-transitions-and-transforms"
+   60  git push origin css-transitions-and-transforms 
+   61  git switch main
+   62  cd typescript-typing-tutor/
+   63  npx tsc --watch
+   64  cd ..
+   65  git add typescript-typing-tutor/
+   66  git commit -m"completed typescript-typing-tutor"
+   67  git push origin typescript-typing-tutor 
+   68  git switch main
+   69  git pull origin main
+   70  git branch css-responsive-layout
+   71  git switch css-responsive-layout 
+   72  git add css-responsive-layout/
+   73  git commit -m"completed css-responsive-layout"
+   74  git push origin css-responsive-layout 
+   75  git switch main
+   76  git pull origin main
+   77  git branch typescript-view-swapping
+   78  git switch typescript-view-swapping 
+   79  cd typescript-view-swapping/
+   80  npx tsc --watch
+   81  cd ..
+   82  git add typescript-view-swapping/
+   83  git commit -m"completed typescript-view-swapping"
+   84  git push origin typescript-view-swapping 
+   85  git switch main
+   86  git push origin main
+   87  git pull origin main 
+   88  git branch typescript-and-json
+   89  git switch typescript-and-json 
+   90  cd typescript-and-json/
+   91  npx tsc --watch
+   92  cd ..
+   93  git add typescript-and-json/
+   94  git commit -m"completed typescript-and-json"
+   95  git push origin typescript-and-json 
+   96  git switch main
+   97  git pull origin main 
+   98  git branch typescript-local-storage
+   99  git switch typescript-local-storage 
+  100  cd typescript-local-storage/
+  101  npx tsc --watch
+  102  cd ..
+  103  git add typescript-local-storage/
+  104  git commit -m"completed typescript-local-storage"
+  105  git push origin typescript-local-storage 
+  106  git switch main
+  107  git pull origin main
+  108  git branch typescript-timers
+  109  git switch typescript-timers 
+  110  cd typescript-timers
+  111  npx tsc --watch
+  112  cd ..
+  113  git add typescript-timers/
+  114  git commit -m"completed typescript-timers"
+  115  git push origin typescript-timers 
+  116  git switch main
+  117  git pull origin main
+  118  git branch typescript-carousel
+  119  git switch typescript-carousel 
+  120  cd typescript-carousel/
+  121  npx tsc --watch
+  122  cd ..
+  123  git add typescript-carousel/
+  124  git commit -m"completed typescript-carousel"
+  125  cd typescript-carousel/
+  126  npx tsc --watch
+  127  cd ..
+  128  git add typescript-carousel/
+  129  git commit -m"completed typescript-carousel"
+  130  git push origin typescript-carousel 
+  131  git switch main
+  132  git pull origin main
+  133  git branch typescript-destructuring
+  134  git switch typescript-destructuring 
+  135  cd typescript-destructuring/
+  136  npx tsc --watch
+  137  cd ..
+  138  git add typescript-destructuring/
+  139  git commit -m"completed typescript-destructuring"
+  140  git push origin typescript-destructuring 
+  141  git switch main
+  142  git pull origin main
+  143  git branch typescript-operators
+  144  git switch typescript-operators 
+  145  git switch main
+  146  git pull origin main
+  147  git switch typescript-operators 
+  148  cd typescript-operators/
+  149  npx tsc --watch
+  150  cd ..
+  151  git add typescript-operators/
+  152  git commit -m"completed typescript-operators"
+  153  git push origin typescript-operators 
+  154  git switch main 
+  155  git pull origin main
+  156  git branch array-methods
+  157  git switch array-methods 
+  158  git switch array-methods 
+  159  cd array-methods/
+  160  npx tsc --watch
+  161  cd ..
+  162  git add array-methods/
+  163  git commit -m"completed array-methods"
+  164  cd array-methods/
+  165  npx tsc --watch
+  166  cd ..
+  167  git add array-methods/
+  168  git commit -m"completed array-methods"
+  169  git push origin array-methods 
+  170  git switch main 
+  171  git pull origin main 
+  172  git branch command-line-basics
+  173  git switch command-line-basics 
+  174  cd command-line-basics/
+  175  man man
+  176  man cat
+  177  cat laziness.txt
+  178  cat impatience
+  179  cat impatience.txt hurbis.txt
+  180  cat hubris.txt
+  181  cat laziness.txt impatience.txt hubris.txt
+  182  cat laziness.txt impatience.txt hubris.txt > three-virtues.txt
+  183  cat three-virtues.txt
+  184  man ls
+  185  man ls
+  186  ls
+  187  ls -a
+  188  ls -f
+  189  ls -a -f
+  190  ls lfz-staff
+  191  ls -aF lfz-staff
+  192  ls -aF lfz-staff > lfz-staff/contents.txt
+  193  ls lfz-staff
+  194  man pwd
+  195  pwd
+  196  pwd > i-was-here.txt
+  197  ls
+  198  cat i-was-here.txt
+  199  man echo
+  200  echo 'Hello, World"
+
+  201  echo 'Hello, World!'
+  202  echo 'Hello, World!' > hello.txt
+  203  ls
+  204  cat hello.txt
+  205  man touch
+  206  touch tag-youre-it.txt
+  207  touch > snoot/boop.txt
+  208  touch snoot/boop.txt
+  209  touch ls snoot/
+  210  ls snoot.
+  211  ls snoot/
+  212  man mkdir
+  213  man mkdir
+  214  mkdir parent
+  215  ls
+  216  mkdir -p parent/child/grandchild
+  217  touch parent/child/grandchild .gitkeep
+  218  touch parent/child/grandchild/.gitkeep
+  219  ls -a
+  220  ls a parent/child/grandchild
+  221  ls parent
+  222  ls parent/child
+  223  ls parent/child/grandchild
+  224  ls -a parent/child/grandchild
+  225  man mv
+  226  mv pokiemans pokemon
+  227  ls
+  228  man rm
+  229  rm lol.txt
+  230  ls
+  231  rm -r kill-me/
+  232  ls
+  233  man cp
+  234  cp and-then.txt no-and-then.txt
+  235  ls
+  236  cat and-then.txt no-and-then.txt 
+  237  man history
+  238  history
+  239  history > command-history.txt
